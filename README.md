@@ -1,2 +1,2 @@
 # logctx
-Everything you need in one logger
+Everything you need in one logger package
